@@ -70,6 +70,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\CharacterController.cs" />
+    <Compile Include="Assets\Script\ForgingWorkDesk.cs" />
+    <Compile Include="Assets\Script\ItemSelecting.cs" />
+    <Compile Include="Assets\Script\ItemTrigger.cs" />
+    <Compile Include="Assets\Script\ShowCase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
